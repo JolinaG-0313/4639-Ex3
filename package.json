@@ -16,5 +16,7 @@
   "bugs": {
     "url": "https://github.com/JolinaG-0313/4639-Ex3/issues"
   },
-  "homepage": "https://github.com/JolinaG-0313/4639-Ex3#readme"
+  "homepage": "https://github.com/JolinaG-0313/4639-Ex3#readme",
+  "type": "module"
+
 }
