@@ -1,0 +1,20 @@
+{
+  "name": "4639-ex3",
+  "version": "1.0.0",
+  "description": "Creating a Git Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JolinaG-0313/4639-Ex3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JolinaG-0313/4639-Ex3/issues"
+  },
+  "homepage": "https://github.com/JolinaG-0313/4639-Ex3#readme"
+}
